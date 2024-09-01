@@ -61,7 +61,7 @@ async function main() {
         mapName,
         mcvRepacks: true,
         shortGame: true,
-        superWeapons: false,
+        superWeapons: true,
         unitCount: 0,
     };
 
